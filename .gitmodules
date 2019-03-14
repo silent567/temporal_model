@@ -1,0 +1,9 @@
+[submodule "liblinear"]
+	path = liblinear
+	url = https://github.com/cjlin1/liblinear.git
+[submodule "cuda_utils"]
+	path = cuda_utils
+	url = git@202.120.38.76:silent56/cuda_utils.git
+[submodule "nn_parts"]
+	path = nn_parts
+	url = git@202.120.38.76:silent56/nn_parts.git
